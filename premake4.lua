@@ -104,6 +104,7 @@ if no_project then
     do return end
 end
 
+include "box-intersection-etu"
 include "projet-mmachine"
 
 
